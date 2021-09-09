@@ -1,1 +1,1 @@
-# group-discussion
+# Newton School group discussion: GITHUB
